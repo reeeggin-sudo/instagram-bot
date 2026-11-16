@@ -11,7 +11,7 @@ BASE_URL = f"https://graph.facebook.com/{API_VERSION}"
 
 VIDEO_URL = (
     "https://reeeggin-sudo.github.io/"
-    "instagram-bot/video.mp4"
+    "instagram-bot/video_fast.mp4"
 )
 
 CAPTION = "#nword"
