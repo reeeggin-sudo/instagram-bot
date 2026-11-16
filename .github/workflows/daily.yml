@@ -3,7 +3,7 @@ name: Daily Instagram Reel
 
 on:
   schedule:
-    - cron: "7 12 * * *"
+    - cron: "7 * * * *"
       timezone: "Europe/Prague"
 
   workflow_dispatch:
