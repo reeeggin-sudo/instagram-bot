@@ -7,7 +7,7 @@ TOKEN = os.environ["IG_ACCESS_TOKEN"]
 IG_ID = os.environ["IG_USER_ID"]
 
 API_VERSION = "v26.0"
-BASE_URL = f"https://graph.instagram.com/{API_VERSION}"
+BASE_URL = f"https://graph.facebook.com/{API_VERSION}"
 
 VIDEO_URL = (
     "https://reeeggin-sudo.github.io/"
